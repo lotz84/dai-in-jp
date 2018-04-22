@@ -490,7 +490,7 @@ Grief    ■                                  ■
 Dread    ■                                       ■
         give shut lock wipe free draw bite grab plop
              ╰┈┈┈┈┈┈┈┈┈┈┈┈┈╯          ╰┈┈┈┈┈┈┈┈┈┈┈┈┈╯
-           　　　　　　　　　担保を増加させる 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　精算
+           　　担保を増加させる 　　　　　　　　　精算
 ```
 
 この表から以下のようなことが分かります。
