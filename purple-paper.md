@@ -1133,5 +1133,5 @@ auth continue = do
 
 訳注
 
-[^1]: 最新のホワイトペーパーはこちらです <https://makerdao.com/whitepaper/DaiDec17WP.pdf>
-[^2]: こちらの邦訳にはありません
+* 1: 最新のホワイトペーパーはこちらです <https://makerdao.com/whitepaper/DaiDec17WP.pdf>
+* 2: こちらの邦訳にはありません
